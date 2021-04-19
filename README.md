@@ -19,10 +19,10 @@ SKILLS & TOOLS: <br>
 <table>
   <tr>
     <th>
-     <a href="https://www.linkedin.com/in/jessereedwebdev/" taget="_blank">LinkedIn</a>
+     <a href="https://www.linkedin.com/in/jessereedwebdev/" target="_blank">LinkedIn</a>
     </th>
     <th>
-    <a href="https://www.jessewebdesign.com" taget="_blank">Website</a>
+    <a href="https://www.jessewebdesign.com" target="_blank">Website</a>
     </th>
   </tr>
 </table>
