@@ -13,6 +13,7 @@ SKILLS & TOOLS: <br>
 • Javascript/jQuery/vue.js <br>
 • Greensock web animation <br>
 • PHP <br>
+• Wordpress, Shopify and other CMS <br>
 • Liquid <br>
 • Adobe creative suite & Figma
 
